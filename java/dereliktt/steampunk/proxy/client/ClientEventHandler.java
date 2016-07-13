@@ -1,4 +1,4 @@
-package dereliktt.steampunk.proxy.cllient;
+package dereliktt.steampunk.proxy.client;
 
 import org.lwjgl.opengl.GL11;
 

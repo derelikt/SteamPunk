@@ -1,4 +1,4 @@
-package dereliktt.steampunk.proxy.cllient;
+package dereliktt.steampunk.proxy.client;
 
 import dereliktt.steampunk.proxy.common.CommonProxy;
 
